@@ -1,0 +1,13 @@
+table{
+    font-family: Halvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 3px;
+    border-style: solid;
+    border-color: deeppink;
+}
+
+th{
+    font-weight: 800;
+    background-color:deeppink;
+    color: ghostwhite;
+}
